@@ -1,13 +1,14 @@
 # Legendaries
 
-As of 2020-06-08
+As of 2020-06-09
 
 |Pokémon|CP|CP%|IV|*|move|chg move|comment|
 |---|---|---|---|---|---|---|---|
 |Terrakion|2604|89|13/14/13|3|Zen Headbutt|Close Combat||
 |Terrakion|2567|78|11/12/12|2|Zen Headbutt|Earthquake||
 |Terrakion|2552|71|12/10/10|2|Zen Headbutt|Earthquake||
-|Reshiram|2480|100|15/15/15|3|Dragon Breath|Crunch||
+|Reshiram|2480|100|15/15/15|3|Fire Fang|Overheat|new fast/charge moves|
+|Reshiram|2815|82|10/14/13|3|Dragon Breath|Draco Meteor||
 |Virizion|2222|89|15/10/15|3|Zen Headbutt|Leaf Blade||
 |Virizion|2094|80|11/13/12|2|Zen Headbutt|Leaf Blade||
 |Cobalion|2213|80|10/15/11|2|Metal Claw|Sacred Sword||

@@ -1,6 +1,6 @@
 # Legendaries
 
-As of 2020-06-09
+As of 2020-06-10
 
 |Pokémon|CP|CP%|IV|*|move|chg move|acquired|comment|
 |---|---|---|---|---|---|---|---|---|

@@ -22,5 +22,6 @@ As of 2020-06-10
 |Cresselia|1246|87|14/10/15|3|Psycho Cut|Grass Knot|||
 |Heatran|2485|89|13/14/13|3|Fire Spin|Flame Thrower|2020-06-10|lucky trade|
 |Latias|1965|84|12/12/14|3|Dragon Breath|Thunder|2020-06-13||
+|Latios|2125|78|14/10/11|2|Dragon Breath|Dragon Claw|2020-06-13||
 
 

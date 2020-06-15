@@ -23,5 +23,7 @@ As of 2020-06-10
 |Heatran|2485|89|13/14/13|3|Fire Spin|Flame Thrower|2020-06-10|lucky trade|
 |Latias|1965|84|12/12/14|3|Dragon Breath|Thunder|2020-06-13||
 |Latios|2125|78|14/10/11|2|Dragon Breath|Dragon Claw|2020-06-13||
+|Latios|2128|78|15/10/10|2|Dragon Breath|Solar Beam|2020-06-14|shiny|
+
 
 

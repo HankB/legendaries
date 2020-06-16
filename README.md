@@ -24,6 +24,7 @@ As of 2020-06-10
 |Latias|1965|84|12/12/14|3|Dragon Breath|Thunder|2020-06-13||
 |Latios|2125|78|14/10/11|2|Dragon Breath|Dragon Claw|2020-06-13||
 |Latios|2128|78|15/10/10|2|Dragon Breath|Solar Beam|2020-06-14|shiny|
+|Latias|1981|91|13/13/15|3|Zen Headbutt|Psychic|2020-06-15||
 
 
 

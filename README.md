@@ -32,5 +32,5 @@ As of 2020-06-10
 
 |Pokémon|CP|IV%|IV|*|move|chg move|acquired|comment|
 |---|---|---|---|---|---|---|---|---|
+|Darkrai|2086|82|11/14/12|3|Feint Attack|Focus Blast|2020-04-30||
 |Darkrai|2097|84|13/10/15|3|Snarl|Dark Pulse|2020-05-01||
-|Darkrai|2086|82|11/14/12|3|Snarl|Dark Pulse|2020-05-01||

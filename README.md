@@ -1,8 +1,10 @@
-# Legendaries
+# My Legendary and Mythical Pokémon
 
 As of 2020-06-10
 
-|Pokémon|CP|CP%|IV|*|move|chg move|acquired|comment|
+## Legendary
+
+|Pokémon|CP|IV%|IV|*|move|chg move|acquired|comment|
 |---|---|---|---|---|---|---|---|---|
 |Terrakion|2604|89|13/14/13|3|Zen Headbutt|Close Combat|||
 |Terrakion|2567|78|11/12/12|2|Zen Headbutt|Earthquake|||
@@ -26,5 +28,9 @@ As of 2020-06-10
 |Latios|2128|78|15/10/10|2|Dragon Breath|Solar Beam|2020-06-14|shiny|
 |Latias|1981|91|13/13/15|3|Zen Headbutt|Psychic|2020-06-15||
 
+## Mythical (from raids)
 
-
+|Pokémon|CP|IV%|IV|*|move|chg move|acquired|comment|
+|---|---|---|---|---|---|---|---|---|
+|Darkrai|2097|84|13/10/15|3|Snarl|Dark Pulse|2020-05-01||
+|Darkrai|2086|82|11/14/12|3|Snarl|Dark Pulse|2020-05-01||

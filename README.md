@@ -1,4 +1,6 @@
-# Legendaries
+# Legendary and Mythical Pokemon
+
+## Legendary
 
 As of 2020-06-10
 
@@ -26,5 +28,14 @@ As of 2020-06-10
 |Latios|2128|78|15/10/10|2|Dragon Breath|Solar Beam|2020-06-14|shiny|
 |Latias|1981|91|13/13/15|3|Zen Headbutt|Psychic|2020-06-15||
 
+## Mythical
 
-
+|Pokémon|CP|CP%|IV|*|move|chg move|acquired|comment|
+|---|---|---|---|---|---|---|---|---|
+|Darkrai|2097|84|13/10/15|3|Snarl|Dark Pulse|2020-05-01|raid|
+|Darkrai|2086|82|11/14/12|3|Feint Attack|Focus Blast|2020-04-30|raid|
+|Genesect|1409|87|11/13/15|3|Metal Claw|X-Scissor|2020-06-23|Throwback Challenge Champion 2020|
+|Jirachi|||||||||
+|Meltan|||||||||
+|Celeby|||||||||
+|Mew|||||||||

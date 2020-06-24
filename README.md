@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# Legendary and Mythical Pokemon
 
-## Legendary
-=======
 # My Legendary and Mythical Pokémon
->>>>>>> 224158e6c01419292ef39b6495048a33ee2188ef
 
-As of 2020-06-10
+As of 2020-06-24
 
 ## Legendary
 

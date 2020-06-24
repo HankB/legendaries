@@ -28,6 +28,14 @@ As of 2020-06-24
 |Latios|2125|78|14/10/11|2|Dragon Breath|Dragon Claw|2020-06-13||
 |Latios|2128|78|15/10/10|2|Dragon Breath|Solar Beam|2020-06-14|shiny|
 |Latias|1981|91|13/13/15|3|Zen Headbutt|Psychic|2020-06-15||
+|Zekrom|2255|80|13/13/10|2|Dragon Breath|Outrage|2020-06-17||
+|Zekrom|2263|84|12/15/11|3|Dragon Breath|Flash Cannon|2020-06-19||
+|Zekrom|2265|84|13/15/10|3|Dragon Breath|Flash Cannon|2020-06-21|Michigan|
+|Zekrom|2250|80|11/13/12|2|Dragon Breath|Wild Charge|2020-06-23||
+|Giratine|2658|64|10/5/14|1|Shadow Claw|Shadow Ball|2020-06-20|trade, 2019-04-13|
+|Rayquaza|2063|51|8/9/6|1|Air Slash|Aerial Ace|2020-06-21|trade, 2019-08-03|
+|Dialga|2193|62|5/12/11|1|Metal Claw|Iron Head|2020-06-22|trade,2019-03-02|
+|Moltres|1876|60|7/15/5|1|Fire Spin|Sky Attack|2020-06-23|shiny, trade, 2018-09-13|
 
 ## Mythical
 

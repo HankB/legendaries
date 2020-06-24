@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 # Legendary and Mythical Pokemon
 
 ## Legendary
+=======
+# My Legendary and Mythical Pokémon
+>>>>>>> 224158e6c01419292ef39b6495048a33ee2188ef
 
 As of 2020-06-10
 
-|Pokémon|CP|CP%|IV|*|move|chg move|acquired|comment|
+## Legendary
+
+|Pokémon|CP|IV%|IV|*|move|chg move|acquired|comment|
 |---|---|---|---|---|---|---|---|---|
 |Terrakion|2604|89|13/14/13|3|Zen Headbutt|Close Combat|||
 |Terrakion|2567|78|11/12/12|2|Zen Headbutt|Earthquake|||

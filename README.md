@@ -32,6 +32,7 @@ As of 2020-06-24
 |Zekrom|2263|84|12/15/11|3|Dragon Breath|Flash Cannon|2020-06-19||
 |Zekrom|2265|84|13/15/10|3|Dragon Breath|Flash Cannon|2020-06-21|Michigan|
 |Zekrom|2250|80|11/13/12|2|Dragon Breath|Wild Charge|2020-06-23||
+|Zekrom|2242|78|10/10/15|2|Dragon Breath|Flash Cannon|2020-06-25||
 |Giratine|2658|64|10/5/14|1|Shadow Claw|Shadow Ball|2020-06-20|trade, 2019-04-13|
 |Rayquaza|2063|51|8/9/6|1|Air Slash|Aerial Ace|2020-06-21|trade, 2019-08-03|
 |Dialga|2193|62|5/12/11|1|Metal Claw|Iron Head|2020-06-22|trade,2019-03-02|

@@ -34,7 +34,9 @@ As of 2020-06-24
 |Zekrom|2250|80|11/13/12|2|Dragon Breath|Wild Charge|2020-06-23||
 |Zekrom|2242|78|10/10/15|2|Dragon Breath|Flash Cannon|2020-06-25||
 |Zekrom|2276|89|13/14/13|3|Dragon Breath|Crunch|2020-06-26||
-|Zekrom|2803|78|10/10/15|3|Dragon Breath|Flash Canon|2020-06-27|weather boosted|
+|Zekrom|2803|78|10/10/15|2|Dragon Breath|Flash Canon|2020-06-27|weather boosted|
+|Zekrom|2247|80|10/13/13|2|Dragon Breath|Flash Canon|2020-07-01||
+|Zekrom|2256|80|13/10/13|2|Dragon Breath|Flash Canon|2020-07-01||
 |Giratine|2658|64|10/5/14|1|Shadow Claw|Shadow Ball|2020-06-20|trade, 2019-04-13|
 |Rayquaza|2063|51|8/9/6|1|Air Slash|Aerial Ace|2020-06-21|trade, 2019-08-03|
 |Dialga|2193|62|5/12/11|1|Metal Claw|Iron Head|2020-06-22|trade,2019-03-02|

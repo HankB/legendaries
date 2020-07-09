@@ -45,6 +45,9 @@ As of 2020-06-24
 |Rayquaza|2063|51|8/9/6|1|Air Slash|Aerial Ace|2020-06-21|trade, 2019-08-03|
 |Dialga|2193|62|5/12/11|1|Metal Claw|Iron Head|2020-06-22|trade,2019-03-02|
 |Moltres|1876|60|7/15/5|1|Fire Spin|Sky Attack|2020-06-23|shiny, trade, 2018-09-13|
+|Kyurem|1989|82|11/11/15|3|Dragon Breath|Dragon Claw|2020-07-07||
+|Kyurem|2018|89|15/12/13|3|Dragon Breath|Blizzard|2020-04-07||
+|Kyurem|2035|98|14/15/15|3|Steel Wing|Dragon Claw|2020-07-08||
 
 ## Mythical
 

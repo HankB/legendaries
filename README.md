@@ -1,7 +1,7 @@
 
 # My Legendary and Mythical Pokémon
 
-As of 2020-06-24
+As of 2020-07-24
 
 ## Legendary
 

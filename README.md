@@ -55,7 +55,7 @@ As of 2020-06-24
 |Kyurem|1961|69|10/10/11|3|Dragon Breath|Blizzard|2020-07-21||
 |Kyurem|1974|76|10/11/13|2|Steel Wing|Blizzard|2020-07-22||
 |Entei|745|69|6/11/14|2|Fire Spin|Flamethrower|2020-07-10|shadow|
-|Suicune|645|69|11/11/9|Extrasensory|Ice Beam|2020-07-11|shadow|
+|Suicune|645|69|11/11/9|2|Extrasensory|Ice Beam|2020-07-11|shadow|
 
 ## Mythical
 

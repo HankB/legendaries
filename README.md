@@ -23,7 +23,7 @@ As of 2020-06-24
 |Groudon|1725|84|10/15/13|3|Dragon Tail|Fire Punch||
 |Ho-Oh|1670|80|12/12/12|2|Extrasensory|Earthquake||emncounter|
 |Ho-Oh|2185|91|14/14/13|3|Steel Wing|Fire Blast|2020-07-04||
-|Ho-Oh}2163|84|12/13/13|3|Steel Wing|Brave Bird|2020-07-04|
+|Ho-Oh|2163|84|12/13/13|3|Steel Wing|Brave Bird|2020-07-04|
 |Ho-Oh|2159|82|12/12/13|3|Steel Wing|Fire Blast|2020-07-06|
 |Cresselia|1246|87|14/10/15|3|Psycho Cut|Grass Knot|||
 |Heatran|2485|89|13/14/13|3|Fire Spin|Flame Thrower|2020-06-10|lucky trade|

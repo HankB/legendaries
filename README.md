@@ -48,6 +48,14 @@ As of 2020-06-24
 |Kyurem|1989|82|11/11/15|3|Dragon Breath|Dragon Claw|2020-07-07||
 |Kyurem|2018|89|15/12/13|3|Dragon Breath|Blizzard|2020-04-07||
 |Kyurem|2035|98|14/15/15|3|Steel Wing|Dragon Claw|2020-07-08||
+|Kyurem|2008|84|15/11/12|3|Steel Wing|Draco Meteor|2020-07-10||
+|Kyurem|1985|80|11/11/14|2|Steel Wing|Blizzard|2020-07-10||
+|Kyurem|1972|73|10/12/11|2|Dragon Breath|Blizzard|2020-07-13||
+|Kyurem|2011|91|11/15/15|3|Steel Wing|Dragon Claw|2020-07-19||
+|Kyurem|1961|69|10/10/11|3|Dragon Breath|Blizzard|2020-07-21||
+|Kyurem|1974|76|10/11/13|2|Steel Wing|Blizzard|2020-07-22||
+|Entei|745|69|6/11/14|2|Fire Spin|Flamethrower|2020-07-10|shadow|
+|Suicune|645|69|11/11/9|Extrasensory|Ice Beam|2020-07-11|shadow|
 
 ## Mythical
 

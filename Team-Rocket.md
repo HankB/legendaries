@@ -57,6 +57,10 @@
 * Rampardos/Rock
 
 ### Blastoise
+* Leafeon (Q/L)
+* Hydreigon
+* Venusaur
+* Sceptile
 
 ### Steelix
 

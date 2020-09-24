@@ -50,3 +50,9 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 |Magikarp|aqua tail|1146|one lucky
 |Porygon||41|need upgrade (10) and Sinnoh Stone (7)
 |charmander||992|have 1 (evolvable) lucky
+
+## Other evolve items
+
+|rare candy|subs stone|king's rock|metal coat|dragon scale|upgrade|sinoh stone|unova stone|
+|---|---|---|---|---|---|---|---|
+|206|12|10|10|9|5|3|11|

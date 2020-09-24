@@ -4,19 +4,19 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 ## 2018
 
-|Pokemon|move|candy|notes|
-|---|---|---|---|
-|Pikachu|thunder|1015||
-|Dratini|draco meteor|1151|have 2 lucky|
-|Bulbasaur|frenzy plant|130|focus|
-|Mareep|dragon pulse|246||
-|Charmander|blast burn|992|have 1 lucky|
-|Larvitar|smack down|70|focus, candy|
-|Squirtle|hydro cannon|396|focus|
-|Eevee|last resort|719||
-|Chikorita|frenzy plant|125||
-|Beldum|meteor mash|266|focus|
-|Cyndaquil|blast burn|206||
+|Pokemon|move|candy|req'd|lucky/100%/shadow|other items|notes|
+|---|---|---|---|---|---|---|
+|Pikachu|thunder|1050|50|0/0/0|
+|Dragonair|draco meteor|1178|100|2/0/0|
+|Bulbasaur|frenzy plant|134|25+100|1/0/0|
+|Mareep|dragon pulse|270|25+100|0/0/1|
+|Charmeleon|blast burn|1228|100|2/0/1|
+|Larvitar|smack down|117|25+100|2/0/0|
+|Squirtle|hydro cannon|478|25+100|0/0/0|
+|Eevee|last resort|743|25|0/0/0|10k walk Umbreon/Espeon|
+|Chikorita|frenzy plant|203|25+100|0/0/0|
+|Beldum|meteor mash|331|25+100|1/0/1|
+|Cyndaquil|blast burn|220|25+100|0/0/0|
 
 ## 2019
 

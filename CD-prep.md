@@ -22,19 +22,20 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 (https://www.futuregamereleases.com/2019/11/pokemon-go-list-all-community-day-events-2019/)
 
-|Pokemon|move|candy|notes|
-|---|---|---|---|
-|Totodile|Hydro Cannon|262|
-|Swinub|Ancient Power|12|
-|Treecko|Frenzy Plant|269|
-|Bagon|Outrage|674|focus
-|Torchic|Blast Burn|240|
-|Slakoth|Body Slam|172|
-|Mudkip|Hydro Cannon|23|focus
-|Ralts|Synchronoise|13|
-|Turtwig|Frenzy Plant|287|focus
-|Trapinch|Earth Power|249|
-|Chimchar|Blast Burn|207|
+
+|Pokemon|move|candy|req'd|lucky/100%/shadow|other items|notes|
+|---|---|---|---|---|---|---|
+|Totodile|Hydro Cannon|276|25+100|0/0/0|
+|Swinub|Ancient Power|28|25+100|0/0/0|sinnoh stone|have shiny with move|
+|Treecko|Frenzy Plant|362|25+100|0/0/0|
+|Bagon|Outrage|664|25+100|0/0/0||1 shiny|
+|Torchic|Blast Burn|246|25+100|0/0/0||1 shiny
+|Slakoth|Body Slam|187|25+100|0/0/0|||
+|Mudkip|Hydro Cannon|56|25+100|0/1/1||1 shiny, hundo is purified
+|Ralts|Synchronoise|40|25+100|0/0/1|sinnoh stone|1 purified.
+|Turtwig|Frenzy Plant|477|25+100|0/0/1||3 shiny
+|Trapinch|Earth Power|258|25+100|0/0/0|
+|Chimchar|Blast Burn|249|25+100|0/0/0||2 monferno
 
 ## 2020
 

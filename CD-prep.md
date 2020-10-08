@@ -8,10 +8,10 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 |---|---|---|---|---|---|---|
 |Pikachu|thunder|1050|50|0/0/0|
 |Dragonair|draco meteor|1178|100|2/0/0|
-|__Bulbasaur__|frenzy plant|134|25+100|1/0/0|
+|__Bulbasaur__|frenzy plant|161|25+100|1/0/0|
 |Mareep|dragon pulse|270|25+100|0/0/1|
 |Charmeleon|blast burn|1228|100|2/0/1|
-|__Larvitar__|smack down|117|25+100|2/0/0|
+|__Larvitar__|smack down|121|25+100|2/0/0|
 |Squirtle|hydro cannon|478|25+100|0/0/0|
 |Eevee|last resort|743|25|0/0/0|10k walk Umbreon/Espeon|
 |Chikorita|frenzy plant|203|25+100|0/0/0|
@@ -20,19 +20,18 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 ## 2019
 
-(https://www.futuregamereleases.com/2019/11/pokemon-go-list-all-community-day-events-2019/)
-
+(<https://www.futuregamereleases.com/2019/11/pokemon-go-list-all-community-day-events-2019/>)
 
 |Pokemon|move|candy|req'd|lucky/100%/shadow|other items|notes|
 |---|---|---|---|---|---|---|
 |Totodile|Hydro Cannon|276|25+100|0/0/0|
-|__Swinub__|Ancient Power|28|25+100|0/0/0|sinnoh stone|have shiny with move|
+|__Swinub__|Ancient Power|48|25+100|0/0/0|sinnoh stone|have shiny with move|
 |Treecko|Frenzy Plant|362|25+100|0/0/0|
 |Bagon|Outrage|664|25+100|0/0/0||1 shiny|
 |Torchic|Blast Burn|246|25+100|0/0/0||1 shiny
 |Slakoth|Body Slam|187|25+100|0/0/0|||
-|__Mudkip__|Hydro Cannon|56|25+100|0/1/1||1 shiny, hundo is purified
-|__Ralts__|Synchronoise|40|25+100|0/0/1|sinnoh stone|1 purified.
+|__Mudkip__|Hydro Cannon|62|25+100|0/1/1||1 shiny, hundo is purified
+|__Ralts__|Synchronoise|275|25+100|0/0/1|sinnoh stone|1 purified.
 |Turtwig|Frenzy Plant|477|25+100|0/0/1||3 shiny
 |Trapinch|Earth Power|258|25+100|0/0/0|
 |Chimchar|Blast Burn|249|25+100|0/0/0||2 monferno
@@ -42,7 +41,7 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 |Pokemon|move|candy|req'd|lucky/100%/shadow|other items|notes|
 |---|---|---|---|---|---|---|
 |Piplup|hydro cannon|219|25+100|0/0/0|
-|__Rhyhorn__|rock wrecker|524|25+100|4/1/0|sinnoh stone|
+|__Rhyhorn__|rock wrecker|863|25+100|4/1/0|sinnoh stone|
 |Abra|psychic|280|25+100|0/0/0||several shiny
 |Snubbull|?|118|50|0/0/0||no CD move|
 |Seedot|bullet seed|27||||(done)
@@ -56,7 +55,7 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 |rare candy|sun stone|king's rock|metal coat|dragon scale|upgrade|sinoh stone|unova stone|
 |---|---|---|---|---|---|---|---|
-|206|12|10|10|9|5|3|11|
+|285|13|11|12|9|5|6|13|
 
 ## Other notes
 

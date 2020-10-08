@@ -55,7 +55,7 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 |rare candy|sun stone|king's rock|metal coat|dragon scale|upgrade|sinoh stone|unova stone|
 |---|---|---|---|---|---|---|---|
-|285|13|11|12|9|5|6|13|
+|300|13|11|12|9|5|6|13|
 
 ## Other notes
 

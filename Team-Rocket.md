@@ -2,6 +2,27 @@
 
 ## Cliff
 
+October 2020 update
+
+### Omanyte
+
+* Venusaur (and mega)
+* Meganium
+* Leafeon
+
+### Machamp
+
+* OG Giraina
+* Mewtwo
+* Lugia
+* Moltres
+
+### Onix
+
+* Rhyperior (with swamp)
+* Swampert
+* Empoleon
+
 ### Grimer/balloon
 
 * Excadrill
@@ -13,10 +34,6 @@
 * Dragonite
 * Chandelure
 * Blaziken
-
-### Machamp
-
-* OG Giraina
 
 ### Omastar
 

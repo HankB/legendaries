@@ -11,7 +11,7 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 |__Bulbasaur__|frenzy plant|407|25+100|2/0/0|
 |Mareep|dragon pulse|270|25+100|0/0/1|
 |Charmeleon|blast burn|1803|100|2/0/1|
-|__Larvitar__|smack down|225|25+100|2/0/0|
+|__Larvitar__|smack down|325|25+100|2/0/0|
 |Squirtle|hydro cannon|526|25+100|0/0/0|
 |Eevee|last resort|743|25|0/0/0|10k walk Umbreon/Espeon|
 |Chikorita|frenzy plant|361|25+100|0/0/0|
@@ -25,12 +25,12 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 |Pokemon|move|candy|req'd|lucky/100%/shadow|other items|notes|
 |---|---|---|---|---|---|---|
 |Totodile|Hydro Cannon|297|25+100|0/0/0|
-|__Swinub__|Ancient Power|122|25+100|0/0/0|sinnoh stone|have shiny with move|
+|__Swinub__|Ancient Power|172|25+100|0/0/0|sinnoh stone|have shiny with move|
 |Treecko|Frenzy Plant|398|25+100|0/0/0|
 |Bagon|Outrage|546|25+100|0/0/0||1 shiny|
 |Torchic|Blast Burn|246|25+100|0/0/0||1 shiny
 |Slakoth|Body Slam|187|25+100|0/0/0|||
-|__Mudkip__|Hydro Cannon|86|25+100|0/1/1||1 shiny, hundo is purified
+|__Mudkip__|Hydro Cannon|186|25+100|0/1/1||1 shiny, hundo is purified
 |__Ralts__|Synchronoise|412|25+100|0/0/1|sinnoh stone|1 purified.
 |Turtwig|Frenzy Plant|477|25+100|0/0/1||3 shiny
 |Trapinch|Earth Power|258|25+100|0/0/0|
@@ -53,10 +53,16 @@ Traditionally the December Community Day (C D) has allowed trainers to evolve pr
 
 ## Other evolve items
 
-|rare candy|sun stone|king's rock|metal coat|dragon scale|upgrade|sinoh stone|unova stone|
+|rare candy|sun stone|king's rock|metal coat|dragon scale|upgrade|sinnoh stone|unova stone|
 |---|---|---|---|---|---|---|---|
-|609|13|15|15|13|6|16|16|
+|359|13|15|15|13|6|16|16|
 
 ## Other notes
 
 Need to TM Frustration for shadow Pokemon to get CD move.
+
+2020-11-21 distribute some rare candy.
+
+* 100 Larvitar
+* 50 Swinub
+* 100 Mudkip
